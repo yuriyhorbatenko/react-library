@@ -1,0 +1,24 @@
+{
+	"name": "react-library",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"deploy-storybook": "storybook-to-ghpages",
+		"deploy": "npm run deploy-storybook",
+		"test": "npm run deploy-storybook --dry-run"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yuriyhorbatenko/react-library.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/yuriyhorbatenko/react-library/issues"
+	},
+	"homepage": "https://github.com/yuriyhorbatenko/react-library",
+	"devDependencies": {
+		"@storybook/storybook-deployer": "^2.8.11"
+	}
+}
