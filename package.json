@@ -17,7 +17,7 @@
 	"bugs": {
 		"url": "https://github.com/yuriyhorbatenko/react-library/issues"
 	},
-	"homepage": "https://github.com/yuriyhorbatenko/react-library",
+	"homepage": "https://yuriyhorbatenko.github.io/react-library",
 	"devDependencies": {
 		"@storybook/storybook-deployer": "^2.8.11"
 	}
